@@ -1,0 +1,16 @@
+body .texto{
+    padding: 4px 80px;
+    background-color: rgb(222, 206, 247);
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+body{
+    padding: 10px 100px;
+    margin-top: -15px;
+    
+}
+
+body h1{
+    margin-left: 280px;
+}
